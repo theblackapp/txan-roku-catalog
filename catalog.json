@@ -323,7 +323,7 @@
     {
       "id": "smu-wbb",
       "title": "Women's College Basketball",
-      "image": "pkg:/images/optimized/sports/smu-womens-basketball.jpg"
+      "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/main/image/womens-college-basketball.png"
     },
     {
       "id": "bowl-season",
