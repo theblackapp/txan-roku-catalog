@@ -322,7 +322,7 @@
     },
     {
       "id": "smu-wbb",
-      "title": "Women's College Basketball",
+      "title": "SMU Women's Basketball",
       "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/main/image/womens-college-basketball.png"
     },
     {
@@ -465,7 +465,7 @@
         "image": "pkg:/images/optimized/sports/ncaa-mens.jpg"
       }
     ],
-    "Women's College Basketball": [
+    "SMU Women's Basketball": [
       {
         "title": "SMU vs Virginia",
         "date": "November 29, 2026",
