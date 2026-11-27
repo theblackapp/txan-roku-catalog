@@ -620,7 +620,7 @@
         "txanTargets": "both",
         "date": "February 13, 2027",
         "details": "UNT vs UTSA | 2:00PM",
-        "image": "pkg:/images/optimized/sports/ncaa-womens.jpg"
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/UNT-banner.png"
       },
       {
         "title": "SMU vs North Carolina",
