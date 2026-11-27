@@ -470,7 +470,7 @@
         "title": "SMU vs Virginia",
         "date": "November 29, 2026",
         "details": "SMU vs Virginia | 5:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-uva.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -522,7 +522,7 @@
         "title": "SMU vs Georgia",
         "date": "December 2, 2026",
         "details": "SMU vs Georgia | 8:15PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-uga.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -530,7 +530,7 @@
         "title": "SMU vs Coppin State",
         "date": "December 18, 2026",
         "details": "SMU vs Coppin State | 6:30PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-csu.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -538,7 +538,7 @@
         "title": "SMU vs UTSA",
         "date": "December 20, 2026",
         "details": "SMU vs UTSA | 3:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-utsa.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -546,7 +546,7 @@
         "title": "SMU vs Incarnate Word",
         "date": "December 23, 2026",
         "details": "SMU vs Incarnate Word | 12:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-UIW.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -554,7 +554,7 @@
         "title": "SMU vs Stanford",
         "date": "January 3, 2027",
         "details": "SMU vs Stanford | 2:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-standford.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -570,7 +570,7 @@
         "title": "SMU vs Clemson",
         "date": "January 14, 2027",
         "details": "SMU vs Clemson | 6:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-clemson.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -586,7 +586,7 @@
         "title": "SMU vs Louisville",
         "date": "January 24, 2027",
         "details": "SMU vs Louisville | 1:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-Louisville.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -602,7 +602,7 @@
         "title": "SMU vs NC State",
         "date": "January 28, 2027",
         "details": "SMU vs NC State | 6:30PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-state.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -610,7 +610,7 @@
         "title": "SMU vs Pittsburgh",
         "date": "February 7, 2027",
         "details": "SMU vs Pittsburgh | 2:00PM",
-        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/65395df040a3dc778f36590943d1bffae256c2e7/image/smu-banner.png",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-Pitt.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
