@@ -444,7 +444,7 @@
         "title": "SFA Football Second Round NCAA FCS Playoff Game",
         "date": "December 5, 2026",
         "details": "SFA Home Playoff Game | December 5, 2026",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/sfa-sports-event-banner.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -452,7 +452,7 @@
         "title": "SFA Men's Basketball vs East Texas A&M",
         "date": "December 5, 2026",
         "details": "Men's Basketball vs ETAMU @ 4:30 PM | William R. Johnson Coliseum | Nacogdoches, Texas",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/sfa-sports-event-banner.png",
         "txanHidden": false,
         "txanTargets": "both"
       },
@@ -462,7 +462,7 @@
         "txanTargets": "both",
         "date": "February 8, 2026",
         "details": "Men's Basketball at ETAMU | Commerce, Texas",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg"
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/sfa-sports-event-banner.png"
       }
     ],
     "SMU Women's Basketball": [
@@ -714,7 +714,7 @@
         "txanTargets": "both",
         "date": "December 5, 2026",
         "details": "Men's Basketball at SFA @ 4:30 PM | Nacogdoches, Texas",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg"
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/etamu-sports-event-banner.png"
       },
       {
         "title": "ETAMU Men's and Women's Basketball vs Nicholls State",
@@ -722,7 +722,7 @@
         "txanTargets": "both",
         "date": "January 2, 2026",
         "details": "Men's and Women's Basketball vs @ Nicholls State | Commerce, Texas",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg"
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/etamu-sports-event-banner.png"
       },
       {
         "title": "ETAMU Men's Basketball vs SFA",
@@ -730,7 +730,7 @@
         "txanTargets": "both",
         "date": "February 8, 2026",
         "details": "Men's Basketball vs SFA | Commerce, Texas",
-        "image": "pkg:/images/optimized/sports/ncaa-mens.jpg"
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4d7d9e7a45055c0e80dd09f940ed62d6ace8164c/image/etamu-sports-event-banner.png"
       }
     ],
     "Dallas Pulse Volleyball": [
