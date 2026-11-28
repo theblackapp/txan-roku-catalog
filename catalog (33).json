@@ -1,0 +1,964 @@
+{
+  "version": 1,
+  "updated": "2026-11-09",
+  "insideTexas": [
+    {
+      "title": "Big 12 Conference hosts Girls Flag Football Clinic",
+      "txanHidden": false,
+      "txanTargets": "both",
+      "program": "Inside Texas",
+      "category": "Sports",
+      "description": "Big 12 Conference Girls Flag Football Clinic at Arlington Martin High School",
+      "videoUrl": "https://videotourl.com/pro/videos/1795554396451-23122ba0-8fc8-4795-828e-1628085aa9f1.mov",
+      "thumbnailUrl": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(9).png",
+      "featured": false
+    },
+    {
+      "title": "AFROJACK brings CONTROL tour to Dallas SILO",
+      "txanHidden": false,
+      "txanTargets": "both",
+      "program": "Inside Texas",
+      "category": "Music Concerts",
+      "description": "Concert Coverage from the stage at Dallas SILO",
+      "videoUrl": "https://videotourl.com/pro/videos/1795363410816-92142313-d03e-41a6-93b9-ba7d859ce9a0.mov",
+      "thumbnailUrl": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(7).png",
+      "featured": false
+    },
+    {
+      "title": "Operation Rock The Troops Red Carpet",
+      "program": "Inside Texas",
+      "category": "Film",
+      "description": "",
+      "videoUrl": "https://videotourl.com/pro/videos/1794451668414-305f84c5-02a1-41ea-8dee-fe2a6eb14f1a.mov",
+      "thumbnailUrl": "https://theblackapp.github.io/txan-roku-catalog/image/txan-thumb.jpg",
+      "featured": false
+    },
+    {
+      "title": "30th American Black Film Festival: Houston Pop-Up",
+      "program": "Inside Texas",
+      "category": "Film",
+      "description": "",
+      "videoUrl": "https://videotourl.com/pro/videos/1794329809810-6ca0980f-4185-4d5a-b092-7b3538113b44.mov",
+      "thumbnailUrl": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/refs/heads/main/image/IMG_0532.jpeg",
+      "featured": false
+    },
+    {
+      "title": "National Show Bands Association Supreme Regionals",
+      "program": "Inside Texas",
+      "category": "School Bands",
+      "description": "",
+      "videoUrl": "https://videotourl.com/pro/videos/1794276623294-5b8245fb-01d0-4689-b6f4-215d335d38cf.mov",
+      "thumbnailUrl": "https://www14.mediafire.com/convkey/db3a/9nfefzwdsvzfhm26g.jpg",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 2, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1779932351888-9c4d5a4e-5297-4311-be87-fa68a2dd4f75.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 20, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1779330306748-d042ef7b-0667-41a2-b50e-31df816e1d47.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 19, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1779245057560-853db4a8-1d60-440a-a2ea-e3987a7bebec.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 18, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1779158849531-2d946fe1-69c7-4c28-86e8-e482d1a0a644.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 15, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778903284519-67c62209-0a6c-481d-9b46-d622cd8eedc5.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 14, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778812825065-c98bb8b5-9e2c-4ad5-81ab-f3780cc19594.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 13, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778722992392-290e8f9a-cdb7-404e-b6b2-186d55cba254.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 12, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778641846591-2f0c6e25-f95b-4669-8336-2859cfa9d032.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 11, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778554473389-2b78e9b6-0465-4bbf-8f27-401e00982abb.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 8, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778277229694-67f51f10-16af-4545-bbb5-8e33c5683d60.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 7, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778212003720-da6cc84c-544c-41b3-9ce0-56db2a5d814d.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 6, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778121025318-c867691e-d718-4510-877f-3b63b7302789.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 5, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1778031211957-2c05dd9c-0fc6-4973-9dc1-4263c84bab66.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 4, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777947985750-6c52d965-d3d5-402c-b88b-80b2c6f380a2.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas - May 1, 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777683079739-92429ef2-f27b-43b4-b704-7f1798d6d79b.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 30 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777601302599-c0b1a15c-7b87-4b90-ba10-1c75104472f4.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 29 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777512569524-3800f0a2-7e16-4ac4-b007-9bb7b54a5813.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 28 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777413290900-72795e16-e6ff-47ae-931f-ed58b08fa3f2.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 27 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777341909278-3421349b-a0a4-4093-b459-f233e8b46f9f.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 24 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777082092472-e2709210-fac7-4f88-b41a-f5d3fe23b808.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 23 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1777000094626-3c9d6aa0-9a10-4c2d-be7b-49bd869eeb59.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 22 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776899155284-9c28d0cd-33f2-47b7-a05e-359008d6d93d.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 21 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776824377886-e3a670cf-8ba7-4589-89e2-eb6b16e4588b.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 20 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776732779113-286f6754-797e-4a3e-9fe1-7aae3fc71b23.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 16 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776391045249-ec0519e1-2140-435c-a73d-52146889f663.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 15 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776307968579-b23d0193-5d7d-43c2-a3a2-943bc383ed74.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 14 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776222096028-66e3a7e1-98d4-4634-8652-e6c435491a4e.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    },
+    {
+      "program": "Inside Texas",
+      "title": "Inside Texas — April 13 2026",
+      "category": "Inside Texas",
+      "description": "Statewide Texas news broadcast covering stories across the state.",
+      "videoUrl": "https://videotourl.com/videos/1776134795246-fdf11635-116f-428c-a196-488d036e2458.mp4",
+      "thumbnailUrl": "https://cdn.phototourl.com/member/2026-11-01-0962603b-294e-48a7-9da4-ee1584864535.png",
+      "featured": false
+    }
+  ],
+  "sportsCategories": [
+    {
+      "id": "uil",
+      "title": "UIL Games & State Championships",
+      "image": "pkg:/images/optimized/sports/uil-championships.jpg"
+    },
+    {
+      "id": "sfa",
+      "title": "SFA Athletics",
+      "image": "pkg:/images/optimized/sports/sfa-athletics.jpg"
+    },
+    {
+      "id": "etamu",
+      "title": "East Texas A&M Athletics",
+      "image": "pkg:/images/optimized/sports/etamu-athletics.jpg"
+    },
+    {
+      "id": "smu-wbb",
+      "title": "SMU Women's Basketball",
+      "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/main/image/womens-college-basketball.png"
+    },
+    {
+      "id": "bowl-season",
+      "title": "College Football Bowl Season",
+      "image": "pkg:/images/optimized/sports/college-football-bowls.jpg"
+    },
+    {
+      "id": "dallas-pulse",
+      "title": "Dallas Pulse Volleyball",
+      "image": "pkg:/images/optimized/sports/dallas-pulse-volleyball.jpg"
+    },
+    {
+      "id": "texas-g-league",
+      "title": "Texas NBA G-League",
+      "image": "pkg:/images/optimized/sports/texas-nba-g-league.jpg"
+    },
+    {
+      "id": "team-usa",
+      "title": "Team USA",
+      "image": "pkg:/images/optimized/sports/team-usa.jpg"
+    },
+    {
+      "id": "texas-wnba",
+      "title": "Texas WNBA",
+      "image": "pkg:/images/optimized/sports/texas-wnba.jpg"
+    }
+  ],
+  "sportsEvents": {
+    "UIL Games & State Championships": [
+      {
+        "title": "1A, 2A-D2 and 2A-D1 UIL State Volleyball",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "November 19, 2026",
+        "details": "Day 1 of UIL State Volleyball Championship Weekend Highlights",
+        "image": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(5).png",
+        "videoUrl": "https://videotourl.com/pro/videos/1795146232337-260991a7-5af0-4140-b6b6-096bd10c1464.mov"
+      },
+      {
+        "title": "3A-D2, 3A-D1, 4A-D2 and 4A-D1 UIL State Volleyball",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "November 20, 2026",
+        "details": "Day 2 of UIL State Volleyball Championship Weekend Highlights",
+        "image": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(39).jpeg",
+        "videoUrl": "https://videotourl.com/pro/videos/1795232261326-ec13c3b3-783e-4e8b-8972-4de3e273fe6e.mp4"
+      },
+      {
+        "title": "5A-D2, 5A-D1, 6A-D2 and 6A-D1 UIL State Volleyball",
+        "date": "November 21, 2026",
+        "details": "Day 2 of UIL State Volleyball Championship Weekend Highlights",
+        "image": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(8).png",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "videoUrl": "https://videotourl.com/pro/videos/1795362706380-086304e1-8377-4aeb-87db-a38da3905aed.mp4"
+      },
+      {
+        "title": "Bi-District Football Championship: Rockwall vs Wylie",
+        "date": "November 13, 2026",
+        "details": "Rockwall 66 - Wylie 48",
+        "image": "https://theblackapp.github.io/txan-roku-catalog/image/image0%20(38).jpeg",
+        "videoUrl": "https://videotourl.com/pro/videos/1794631328378-31200bd7-83f0-446c-ae7e-d6b29e0a236d.mov"
+      },
+      {
+        "title": "Area Round Football Championship: Desoto vs Melissa",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "November 20, 2026",
+        "details": "Desoto 38 - Melissa 7",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/fe4e769f9eebb6d1a30bb3652111bd0d71f9c8ed/image/image0%20(10).png",
+        "videoUrl": "https://videotourl.com/pro/videos/1795240933829-e3e38f75-8b97-4c88-bee5-b39770e5b641.mov"
+      },
+      {
+        "title": "UIL State Football Championships",
+        "date": "December 16–19",
+        "details": "2026–27 State Football Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "Regional Semifinals: Carthage vs Van Alstyne",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "November 27, 2026",
+        "details": "Carthage: 45 - Van Alstyne: 17",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/a73e8ff09e8a6214cca3fe4d089f3594318ecd56/carthageovervanalstyne.png",
+        "videoUrl": "https://videotourl.com/pro/videos/1795833663683-116050de-d878-4c6d-93a3-f03037e10a17.mov"
+      },
+      {
+        "title": "UIL State Cheer / Spirit Championships",
+        "date": "January 13–16",
+        "details": "2027 State Cheer Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "UIL Girls Basketball Championships",
+        "date": "March 4–6",
+        "details": "2027 State Girls Basketball Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "UIL Boys Basketball Championships",
+        "date": "March 11–13",
+        "details": "2027 State Boys Basketball Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "UIL Track & Field Championships",
+        "date": "May 12–14",
+        "details": "2027 State Track Meet Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "UIL Softball Championships",
+        "date": "June 3–5",
+        "details": "2027 State Softball Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      },
+      {
+        "title": "UIL Baseball Championships",
+        "date": "June 10–12",
+        "details": "2027 State Baseball Championships Coverage",
+        "image": "pkg:/images/optimized/sports/uil-basic.jpg"
+      }
+    ],
+    "SFA Athletics": [
+      {
+        "title": "SFA Football Second Round NCAA FCS Playoff Game",
+        "date": "December 5, 2026",
+        "details": "SFA Home Playoff Game | December 5, 2026",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/e347acff3beb2fdec35957d77c02997a7e3a7e76/image/sfa-fcs.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SFA Men's Basketball vs East Texas A&M",
+        "date": "December 5, 2026",
+        "details": "Men's Basketball vs ETAMU @ 4:30 PM | William R. Johnson Coliseum | Nacogdoches, Texas",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/e347acff3beb2fdec35957d77c02997a7e3a7e76/image/sfa-vs-etamu.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      }
+    ],
+    "SMU Women's Basketball": [
+      {
+        "title": "SMU vs Virginia",
+        "date": "November 29, 2026",
+        "details": "SMU vs Virginia | 5:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-uva.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs University of Dallas",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "November 24, 2026",
+        "details": "UNT: 106 - UD: 38",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/97364f5edb05e09acca63b60d96d28390d074172/image/image0%20(40).jpeg",
+        "videoUrl": "https://videotourl.com/pro/videos/1795644652692-27f3c57a-68ac-433a-bd8c-807aefca6851.mp4"
+      },
+      {
+        "title": "SMU vs Nicholls",
+        "date": "November 15, 2026",
+        "details": "SMU: 77 - Nicholls: 65",
+        "image": "https://theblackapp.github.io/txan-roku-catalog/image/SMUNicholls.png",
+        "videoUrl": "https://videotourl.com/pro/videos/1794797237892-3bd36e18-3226-4be2-8977-146f1e0c608f.mov",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Hampton",
+        "date": "November 5, 2026",
+        "details": "SMU: 66 - Hampton: 54",
+        "image": "pkg:/images/optimized/sports/smuwbb-hampton.jpg",
+        "videoUrl": "https://videotourl.com/pro/videos/1793909906832-50e2529d-2818-448d-a2b8-d6595bb44856.mov",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Le Moyne",
+        "date": "November 3, 2026",
+        "details": "SMU: 72 - Le Moyne: 36",
+        "image": "pkg:/images/optimized/sports/smuwbb-lemoyne.jpg",
+        "videoUrl": "https://videotourl.com/pro/videos/1793910529892-60dfdef7-5464-4bdc-a715-93a9ea81b6c3.mp4",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs Baylor",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "December 2, 2026",
+        "details": "UNT vs Baylor | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-Baylor.png"
+      },
+      {
+        "title": "SMU vs Georgia",
+        "date": "December 2, 2026",
+        "details": "SMU vs Georgia | 8:15PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-uga.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Coppin State",
+        "date": "December 18, 2026",
+        "details": "SMU vs Coppin State | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-csu.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs UTSA",
+        "date": "December 20, 2026",
+        "details": "SMU vs UTSA | 3:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-utsa.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Incarnate Word",
+        "date": "December 23, 2026",
+        "details": "SMU vs Incarnate Word | 12:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-UIW.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Stanford",
+        "date": "January 3, 2027",
+        "details": "SMU vs Stanford | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-standford.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs Wichita State",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 13, 2027",
+        "details": "UNT vs Wichita State | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-wsu.png"
+      },
+      {
+        "title": "SMU vs Clemson",
+        "date": "January 14, 2027",
+        "details": "SMU vs Clemson | 6:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-clemson.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs Tulane",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 23, 2027",
+        "details": "UNT vs Tulane | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-Tulane.png"
+      },
+      {
+        "title": "SMU vs Louisville",
+        "date": "January 24, 2027",
+        "details": "SMU vs Louisville | 1:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-Louisville.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs Tulsa",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 27, 2027",
+        "details": "UNT vs Tulsa | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-Tulsa.png"
+      },
+      {
+        "title": "SMU vs NC State",
+        "date": "January 28, 2027",
+        "details": "SMU vs NC State | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-state.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Pittsburgh",
+        "date": "February 7, 2027",
+        "details": "SMU vs Pittsburgh | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/582f689510dc1f76740b845e164f432662e48ec7/image/smu-vs-Pitt.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs UTSA",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 13, 2027",
+        "details": "UNT vs UTSA | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-utsa.png"
+      },
+      {
+        "title": "SMU vs North Carolina",
+        "date": "February 14, 2027",
+        "details": "SMU vs North Carolina | 1:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/987e08ad37b67fe3fd39b661ebda37704390cbe3/image/smu-vs-UNC.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "UNT vs Temple",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 21, 2027",
+        "details": "UNT vs Temple | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-temple.png"
+      },
+      {
+        "title": "SMU vs California",
+        "date": "February 21, 2027",
+        "details": "SMU vs California | 2:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/987e08ad37b67fe3fd39b661ebda37704390cbe3/image/smu-vs-cal.png",
+        "txanHidden": false,
+        "txanTargets": "both"
+      },
+      {
+        "title": "SMU vs Duke",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 25, 2027",
+        "details": "SMU vs Duke | 5:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/987e08ad37b67fe3fd39b661ebda37704390cbe3/image/smu-vs-Duke.png"
+      },
+      {
+        "title": "UNT vs Rice",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "March 3, 2027",
+        "details": "UNT vs Rice | 6:30PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/7609de3add1070851f9c338c91ed0671e4658381/image/unt-vs-rice.png"
+      }
+    ],
+    "College Football Bowl Season": [
+      {
+        "title": "Frisco Football Classic",
+        "date": "December 15, 2026",
+        "details": "Frisco Football Classic",
+        "image": "pkg:/images/optimized/sports/frisco-football-classic.jpg"
+      },
+      {
+        "title": "Independence Bowl",
+        "date": "December 22, 2026",
+        "details": "Independence Bowl",
+        "image": "pkg:/images/optimized/sports/independence-bowl.jpg"
+      },
+      {
+        "title": "Frisco Bowl",
+        "date": "December 23, 2026",
+        "details": "Frisco Bowl",
+        "image": "pkg:/images/optimized/sports/frisco-bowl.jpg"
+      },
+      {
+        "title": "Pop-Tarts Bowl",
+        "date": "December 29, 2026",
+        "details": "Pop-Tarts Bowl",
+        "image": "pkg:/images/optimized/sports/poptarts-bowl.jpg"
+      },
+      {
+        "title": "Kinder's Texas Bowl",
+        "date": "December 31, 2026",
+        "details": "Kinder's Texas Bowl",
+        "image": "pkg:/images/optimized/sports/kinders-texas-bowl.jpg"
+      },
+      {
+        "title": "Cotton Bowl",
+        "date": "January 1, 2027",
+        "details": "CFP Quarterfinals - Cotton Bowl",
+        "image": "pkg:/images/optimized/sports/cotton-bowl.jpg"
+      },
+      {
+        "title": "SERVPRO First Responder Bowl",
+        "date": "January 2, 2027",
+        "details": "SERVPRO Bowl",
+        "image": "pkg:/images/optimized/sports/servpro-bowl.jpg"
+      }
+    ],
+    "East Texas A&M Athletics": [
+      {
+        "title": "ETAMU Men's and Women's Basketball vs Nicholls State",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 2, 2026",
+        "details": "Men's and Women's Basketball vs Nicholls State | Commerce, Texas",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/e347acff3beb2fdec35957d77c02997a7e3a7e76/image/etamu-vs-nicholls.png"
+      },
+      {
+        "title": "ETAMU Men's Basketball vs SFA",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 8, 2026",
+        "details": "Men's Basketball vs SFA | Commerce, Texas",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/e347acff3beb2fdec35957d77c02997a7e7e76/image/etamu-vs-sfa.png940ed62d6ace8164c/image/etamu-sports-event-banner.png"
+      }
+    ],
+    "Dallas Pulse Volleyball": [
+      {
+        "title": "Dallas Pulse vs Atlanta Vibe",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 8, 2027",
+        "details": "Dallas Pulse vs Atlanta Vibe | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-vibe.png"
+      },
+      {
+        "title": "Dallas Pulse vs Omaha Supernovas",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 22, 2027",
+        "details": "Dallas Pulse vs Omaha Supernovas | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-Omaha.png"
+      },
+      {
+        "title": "Dallas Pulse vs Orlando Valkyries",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 28, 2027",
+        "details": "Dallas Pulse vs Orlando Valkyries | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-Orlando.png"
+      },
+      {
+        "title": "Dallas Pulse vs Minnesota Forge",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 5, 2027",
+        "details": "Dallas Pulse vs Minnesota Forge | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-forge.png"
+      },
+      {
+        "title": "Dallas Pulse vs Grand Rapids Rise",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 12, 2027",
+        "details": "Dallas Pulse vs Grand Rapids Rise | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-rise.png"
+      },
+      {
+        "title": "Dallas Pulse vs Norcal Rumble",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 28, 2027",
+        "details": "Dallas Pulse vs Norcal Rumble | TBA",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-NorCal.png"
+      },
+      {
+        "title": "Dallas Pulse vs Los Angeles Thunder",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "March 11, 2027",
+        "details": "Dallas Pulse vs Los Angeles Thunder | 6:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-La%20thunder.png"
+      },
+      {
+        "title": "Dallas Pulse vs DC Flight",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "April 1, 2027",
+        "details": "Dallas Pulse vs DC Flight | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-dc.png"
+      },
+      {
+        "title": "Dallas Pulse vs Columbus Fury",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "April 18, 2026",
+        "details": "Dallas Pulse vs Columbus Fury | TBA",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-fury.png"
+      },
+      {
+        "title": "Dallas Pulse vs Indy Ignite",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "April 24, 2027",
+        "details": "Dallas Pulse vs Indy Ignite | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/4fe661a345c09e03c6c512cab446dabaa37f95dd/image/dallaspulse-vs-Indy.png"
+      }
+    ],
+    "Texas NBA G-League": [
+      {
+        "title": "Texas Legends vs Laketown Squadron",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "December 11, 2026",
+        "details": "Texas Legends vs Laketown Squadron | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-laketown.png"
+      },
+      {
+        "title": "Texas Legends vs Santa Cruz Warriors",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 9, 2027",
+        "details": "Texas Legends vs Santa Cruz Warriors | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-santa.png"
+      },
+      {
+        "title": "Texas Legends vs OKC Blue",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 18, 2027",
+        "details": "Texas Legends vs OKC Blue | 3:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-OKC.png"
+      },
+      {
+        "title": "Texas Legends vs Mexico City Capitanes",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "January 30, 2027",
+        "details": "Texas Legends vs Mexico City Capitanes | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-Mac.png"
+      },
+      {
+        "title": "Texas Legends vs Austin Spurs",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 8, 2027",
+        "details": "Texas Legends vs Austin Spurs | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-Austin.png"
+      },
+      {
+        "title": "Texas Legends vs San Diego Clippers",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "February 26, 2027",
+        "details": "Texas Legends vs San Diego Clippers | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-clippers.png"
+      },
+      {
+        "title": "Texas Legends vs Sioux Falls Skyforce",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "March 12, 2027",
+        "details": "Texas Legends vs Sioux Falls Skyforce | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-sky%20force.png"
+      },
+      {
+        "title": "Texas Legends vs Stockton Kings",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "March 17, 2027",
+        "details": "Texas Legends vs Stockton Kings | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-kings.png"
+      },
+      {
+        "title": "Texas Legends vs Memphis Hustle",
+        "txanHidden": false,
+        "txanTargets": "both",
+        "date": "March 25, 2027",
+        "details": "Texas Legends vs Memphis Hustle | 7:00PM",
+        "image": "https://raw.githubusercontent.com/theblackapp/txan-roku-catalog/2e8c26919ee86a8c63f319d1376090af3ea29aea/image/txleg-vs-Memphis.png"
+      }
+    ],
+    "Team USA": [],
+    "Texas WNBA": []
+  },
+  "movies": [
+    {
+      "title": "The Last Voicemail - Now Showing",
+      "url": "https://videotourl.com/pro/videos/1795099901983-1ba1d203-328b-4e18-8be8-400e8a8aa073.mov"
+    },
+    {
+      "title": "God's Eye View - Trailer | Premieres November 30, 2026",
+      "url": "https://videotourl.com/videos/1793905064951-e2d24de4-9d0d-459a-8aad-08e723ff12f1.mp4"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "Fred Ortiz - HKS Architects",
+      "url": "https://videotourl.com/videos/1793852910532-12f365b1-9346-46d4-acdb-c1fae4697382.mp4"
+    },
+    {
+      "title": "Ed Perkins - Hulu's Clown Panic",
+      "url": "https://videotourl.com/videos/1793853020375-f527fe3d-4a94-439f-92e2-57b767d6f0d8.mp4"
+    },
+    {
+      "title": "Jason Lee Hernandez and Brian Lazarte - Born to Bowl",
+      "url": "https://videotourl.com/videos/1793853188329-35017481-cf92-4d00-8686-ff4ce5b025b9.mp4"
+    },
+    {
+      "title": "Jim Higdon - Cornbread Hemp",
+      "url": "https://videotourl.com/videos/1793853222530-da400ad2-0e82-4163-8235-92fa3775bd62.mp4"
+    },
+    {
+      "title": "Bill Pickett Invitational Rodeo Special",
+      "url": "https://videotourl.com/pro/videos/1793910980017-5e4a61e3-e1de-4be9-ab61-2ff31cfca73b.mp4"
+    },
+    {
+      "title": "Jimmy Toler - Tyler Police Chief",
+      "url": "https://videotourl.com/pro/videos/1793911470003-903d1d0c-b5c9-4942-b368-66e9c41c1511.mp4"
+    },
+    {
+      "title": "Brian Cross - Esri Director",
+      "url": "https://videotourl.com/pro/videos/1793911632106-31e89541-1197-44a5-8ec2-c98a4e9e31e7.mov"
+    },
+    {
+      "title": "Paul Huett - Americas Gold and Silver",
+      "url": "https://videotourl.com/pro/videos/1793913091952-a2e5f025-7e17-4bb7-b0c9-212cfd3d10e7.mp4"
+    },
+    {
+      "title": "Therelee D. Washington - The Technological Shift",
+      "url": "https://videotourl.com/pro/videos/1793912232044-eb1cd792-0dfc-41b2-8672-e023c9c79ac3.mp4"
+    },
+    {
+      "title": "Focus On The Family - Series 1",
+      "url": "https://videotourl.com/pro/videos/1793913162915-dd42b346-6413-4fe7-8592-210f64ccafa1.mp4"
+    },
+    {
+      "title": "Focus On The Family - Series 2",
+      "url": "https://videotourl.com/pro/videos/1793913208735-9c1c467f-f52e-4ff5-a325-f03abccd0f61.mp4"
+    },
+    {
+      "title": "Focus On The Family - Series 3",
+      "url": "https://videotourl.com/pro/videos/1793913212534-6e397c11-a2ae-41b5-9de3-adcdcea8dde9.mp4"
+    },
+    {
+      "title": "Focus On The Family - Series 4",
+      "url": "https://videotourl.com/pro/videos/1793913234495-158f95f2-5c47-4f23-b1de-ce9e54afb633.mp4"
+    }
+  ],
+  "dallasPulse": [
+    {
+      "title": "Interview with MLV Commissioner Jaime Weston",
+      "url": "https://videotourl.com/videos/1793853547834-a37bac38-2a95-4917-9e07-6f691a312be0.mp4"
+    }
+  ],
+  "teamUSA": [
+    {
+      "title": "Olympic Hall of Fame Class of 2025 - Red Carpet Ceremony",
+      "url": "https://videotourl.com/pro/videos/1793911318857-dea2975d-a07d-41e1-9c2e-d88eff5ea13c.mp4"
+    }
+  ]
+}
